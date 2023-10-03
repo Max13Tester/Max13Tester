@@ -15,8 +15,8 @@ Latest YouTube Videos
 ![Postman](https://img.shields.io/badge/Postman-fcf255?style=style%20for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/Swagger-f9eafd?style=style%20for-the-badge&logo=swagger)
 ![GIt](https://img.shields.io/badge/Git-b7d5e2?style=style%20for-the-badge&logo=git)
-![Android_studio](https://img.shields.io/badge/Android_Studio-d1f4e9?style=style%20for-the-badge&logo=android-studio)
-![Apache_JMeter](https://img.shields.io/badge/Apache_JMeter-f0698f?style=style%20for-the-badge&logo=Apache-JMeter)
+![Android_studio](https://img.shields.io/badge/Android_Studio-d1f4e9?style=style%20for-the-badge&logo=android-studio) <br>
+![Apache_JMeter](https://img.shields.io/badge/Apache_JMeter-f0698f?style=style%20for-the-badge&logo=Apache-JMeter) 
 ![Linux](https://img.shields.io/badge/Linux-c6eaf7?style=style%20for-the-badge&logo=Linux)
 ![Oracle](https://img.shields.io/badge/Oracle-f56c22?style=style%20for-the-badge&logo=oracle)
 ![Adobe_Photoshop](https://img.shields.io/badge/Adobe_Photoshop-f2f858?style=style%20for-the-badge&logo=adobe-photoshop)
