@@ -4,7 +4,7 @@
 
 Latest YouTube Videos
 
-Languages and Tools
+### Languages and Tools
 ![SQL](https://img.shields.io/badge/SQL-6ab2f4?style=style%20for-the-badge&logo=Mysql)
 ![Python](https://img.shields.io/badge/Python-9cf1c6?style=style%20for-the-badge&logo=python)
 ![Jira](https://img.shields.io/badge/Jira-0eabf4?style=style%20for-the-badge&logo=jira)
@@ -27,4 +27,11 @@ Languages and Tools
 ![Docker](https://img.shields.io/badge/Docker-0ef8b9?style=style%20for-the-badge&logo=Docker)
 ![DevTools](https://img.shields.io/badge/DevTools-9b2eb6?style=style%20for-the-badge&logo=DevTools)
 
-Follow Me
+### Follow Me
+[![telegram](https://img.shields.io/badge/Telegram-f2f858?style=style%20for-the-badge&logo=telegram)](https://web.telegram.org/a/)
+[![Instagram](https://img.shields.io/badge/Instagram-24aae8?style=style%20for-the-badge&logo=instagram)](https://www.instagram.com/maks_valerich_/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-24aae8?style=style%20for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maxim-golovin-b21042294/)
+[![VK](https://img.shields.io/badge/VK-24aae8?style=style%20for-the-badge&logo=vk)](https://vk.com/max.golovin)
+
+
+
