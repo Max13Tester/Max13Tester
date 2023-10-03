@@ -19,7 +19,7 @@ Languages and Tools
 ![Apache_JMeter](https://img.shields.io/badge/Apache_JMeter-f0698f?style=style%20for-the-badge&logo=Apache-JMeter)
 ![Linux](https://img.shields.io/badge/Linux-c6eaf7?style=style%20for-the-badge&logo=Linux)
 ![Oracle](https://img.shields.io/badge/Oracle-f56c22?style=style%20for-the-badge&logo=oracle)
-![Adobe_Photoshop](https://img.shields.io/badge/Adobe Photoshop-f2f858?style=style%20for-the-badge&logo=adobe-photoshop)
+![Adobe_Photoshop](https://img.shields.io/badge/Adobe_Photoshop-f2f858?style=style%20for-the-badge&logo=adobe-photoshop)
 ![Figma](https://img.shields.io/badge/Figma-e8f015?style=style%20for-the-badge&logo=figma)
 ![Google_Chrome](https://img.shields.io/badge/Google_Chrome-fcfcfc?style=style%20for-the-badge&logo=Google-Chrome)
 ![Firefox](https://img.shields.io/badge/Firefox-fcfcfc?style=style%20for-the-badge&logo=Firefox)
