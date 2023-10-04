@@ -27,6 +27,7 @@
 ![Docker](https://img.shields.io/badge/Docker-0ef8b9?style=style%20for-the-badge&logo=Docker)
 ![DevTools](https://img.shields.io/badge/DevTools-9b2eb6?style=style%20for-the-badge&logo=DevTools)
 ![Windows](https://img.shields.io/badge/Windows-9b2eb6?style=style%20for-the-badge&logo=windows)
+![Html_CSS](https://img.shields.io/badge/Html-CSS-fcfcfc?style=style%20for-the-badge&logo=Html_CSS)
 
 <hr>
 
