@@ -14,7 +14,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-e9f4c2?style=style%20for-the-badge&logo=selenium)
 ![Postman](https://img.shields.io/badge/Postman-fcf255?style=style%20for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/Swagger-f9eafd?style=style%20for-the-badge&logo=swagger)
-![GIt](https://img.shields.io/badge/Git-b7d5e2?style=style%20for-the-badge&logo=git)
+![GIt](https://img.shields.io/badge/Git-b7d5e2?style=style%20for-the-badge&logo=git) <br>
 ![Android_studio](https://img.shields.io/badge/Android_Studio-d1f4e9?style=style%20for-the-badge&logo=android-studio) <br>
 ![Apache_JMeter](https://img.shields.io/badge/Apache_JMeter-f0698f?style=style%20for-the-badge&logo=Apache-JMeter) 
 ![Linux](https://img.shields.io/badge/Linux-c6eaf7?style=style%20for-the-badge&logo=Linux)
