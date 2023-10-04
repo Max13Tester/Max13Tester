@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-9cf1c6?style=style%20for-the-badge&logo=python)
 ![Jira](https://img.shields.io/badge/Jira-0eabf4?style=style%20for-the-badge&logo=jira)
 ![Confluence](https://img.shields.io/badge/Confluence-0eabf4?style=style%20for-the-badge&logo=confluence)
-![Testrail](https://img.shields.io/badge/Testrail-0eabf4?style=style%20for-the-badge&logo=testrail)
+![Testrail](https://img.shields.io/badge/Testrail-0eabf4?style=style%20for-the-badge&logo=testrail) <hr>
 ![Redmine](https://img.shields.io/badge/Redmine-fc0612?style=style%20for-the-badge&logo=redmine)
 ![Selenium](https://img.shields.io/badge/Selenium-e9f4c2?style=style%20for-the-badge&logo=selenium)
 ![Postman](https://img.shields.io/badge/Postman-fcf255?style=style%20for-the-badge&logo=postman)
