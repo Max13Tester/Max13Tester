@@ -22,7 +22,7 @@
 ![Adobe_Photoshop](https://img.shields.io/badge/Adobe_Photoshop-f2f858?style=style%20for-the-badge&logo=adobe-photoshop) 
 ![Figma](https://img.shields.io/badge/Figma-e8f015?style=style%20for-the-badge&logo=figma)
 ![Google_Chrome](https://img.shields.io/badge/Google_Chrome-fcfcfc?style=style%20for-the-badge&logo=Google-Chrome)
-![Firefox](https://img.shields.io/badge/Firefox-fcfcfc?style=style%20for-the-badge&logo=Firefox)
+![Firefox](https://img.shields.io/badge/Firefox-fcfcfc?style=style%20for-the-badge&logo=Firefox) <br>
 ![Json](https://img.shields.io/badge/JSON-f88c0e?style=style%20for-the-badge&logo=json)
 ![Docker](https://img.shields.io/badge/Docker-0ef8b9?style=style%20for-the-badge&logo=Docker)
 ![DevTools](https://img.shields.io/badge/DevTools-9b2eb6?style=style%20for-the-badge&logo=DevTools)
