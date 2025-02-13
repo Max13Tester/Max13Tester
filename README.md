@@ -6,18 +6,18 @@
 
 ### Languages and Tools
 ![SQL](https://img.shields.io/badge/SQL-6ab2f4?style=style%20for-the-badge&logo=Mysql)
-![Python](https://img.shields.io/badge/Python-9cf1c6?style=style%20for-the-badge&logo=python)
+<!--![Python](https://img.shields.io/badge/Python-9cf1c6?style=style%20for-the-badge&logo=python)-->
 ![Jira](https://img.shields.io/badge/Jira-0eabf4?style=style%20for-the-badge&logo=jira)
 ![Confluence](https://img.shields.io/badge/Confluence-0eabf4?style=style%20for-the-badge&logo=confluence)
 ![Testrail](https://img.shields.io/badge/Testrail-0eabf4?style=style%20for-the-badge&logo=testrail) <br>
 ![Redmine](https://img.shields.io/badge/Redmine-fc0612?style=style%20for-the-badge&logo=redmine)
 ![Selenium](https://img.shields.io/badge/Selenium-e9f4c2?style=style%20for-the-badge&logo=selenium)
 ![Postman](https://img.shields.io/badge/Postman-fcf255?style=style%20for-the-badge&logo=postman)
-![Swagger](https://img.shields.io/badge/Swagger-e9f4c2?style=style%20for-the-badge&logo=swagger)
+<!--![Swagger](https://img.shields.io/badge/Swagger-e9f4c2?style=style%20for-the-badge&logo=swagger)-->
 ![GIt](https://img.shields.io/badge/Git-b7d5e2?style=style%20for-the-badge&logo=git) <br>
-![Android_studio](https://img.shields.io/badge/Android_Studio-d1f4e9?style=style%20for-the-badge&logo=android-studio)
+<!--![Android_studio](https://img.shields.io/badge/Android_Studio-d1f4e9?style=style%20for-the-badge&logo=android-studio)-->
 ![Apache_JMeter](https://img.shields.io/badge/Apache_JMeter-f0698f?style=style%20for-the-badge&logo=Apache-JMeter) 
-![Linux](https://img.shields.io/badge/Linux-c6eaf7?style=style%20for-the-badge&logo=Linux)
+<!--![Linux](https://img.shields.io/badge/Linux-c6eaf7?style=style%20for-the-badge&logo=Linux)-->
 ![Oracle](https://img.shields.io/badge/Oracle-f56c22?style=style%20for-the-badge&logo=oracle) <br>
 ![Adobe_Photoshop](https://img.shields.io/badge/Adobe_Photoshop-f2f858?style=style%20for-the-badge&logo=adobe-photoshop) 
 ![Figma](https://img.shields.io/badge/Figma-e8f015?style=style%20for-the-badge&logo=figma)
@@ -27,7 +27,7 @@
 ![Docker](https://img.shields.io/badge/Docker-0ef8b9?style=style%20for-the-badge&logo=Docker)
 ![DevTools](https://img.shields.io/badge/DevTools-9b2eb6?style=style%20for-the-badge&logo=DevTools)
 ![Windows](https://img.shields.io/badge/Windows-9b2eb6?style=style%20for-the-badge&logo=windows)
-![Html_CSS](https://img.shields.io/badge/Html-CSS-9b2eb6?style=style%20for-the-badge&logo=Html_CSS)
+<!--![Html_CSS](https://img.shields.io/badge/Html-CSS-9b2eb6?style=style%20for-the-badge&logo=Html_CSS)-->
 
 <hr>
 
